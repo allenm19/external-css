@@ -15,7 +15,9 @@
     th {
        padding: 3px;
     }
-    
+    #bonds {
+    border:20px; solid silver    
+}
     td {
        padding-left: 8px;
        padding-right: 8px;
